@@ -1,0 +1,33 @@
+*, html {
+  font-family: Montserrat;
+}
+
+.me-auto {
+  word-break: break-word;
+}
+
+a { text-decoration: none; }
+
+p { margin: 0px; }
+
+.text-gray { color: var(--Gray, #595a5d); }
+.text-blue { color: var(--Dark-Blu3, #061d45); }
+.text-light-blue { color: #3B5CEE; }
+
+.fs-13 { font-size: 13px !important; }
+.fs-14 { font-size: 14px !important; }
+.fs-16 { font-size: 16px !important; }
+.fs-18 { font-size: 18px !important; }
+.fs-24 { font-size: 24px !important; }
+.fs-28 { font-size: 28px !important; }
+.fs-30 { font-size: 30px !important; }
+.fs-32 { font-size: 32px !important; }
+.fs-44 { font-size: 44px !important; }
+.fs-50 { font-size: 50px !important; }
+.fs-73 { font-size: 73px !important; }
+
+.lh-22 { line-height: 22px !important; }
+.lh-26 { line-height: 26px !important; }
+.lh-38 { line-height: 38px !important; }
+.lh-50 { line-height: 50px !important; }
+.lh-86 { line-height: 86px !important; }

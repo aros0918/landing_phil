@@ -1,0 +1,95 @@
+hr {
+  margin: 0px;
+  border-color: rgba(0, 0, 0, 0.06);
+}
+
+.footer .footer-sep {
+  width: 25px;
+  height: 2px;
+  background: #3b5cee;
+  border-radius: 10px;
+  margin-top: 16px;
+  margin-bottom: 16px;
+}
+
+.dropdown-menu {
+  padding: 0px;
+  margin: 0px;
+}
+
+.dropdown-item {
+  padding: 6px;
+  color: black;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+}
+.dropdown-item:hover {
+  background: #C1E3FE;
+}
+
+li:first-child .dropdown-item {
+  border-top-right-radius: 6px;
+  border-top-left-radius: 6px;
+}
+
+li:last-child .dropdown-item {
+  border-bottom-left-radius: 6px;
+  border-bottom-right-radius: 6px;
+}
+
+.button {
+  padding: 20px 56px;
+  border-radius: 8px;
+  border: 1px solid #595A5D25;
+  background: rgba(255, 255, 255, 0.1);
+  color: white;
+}
+
+.button.active {
+  border: 0px;
+  background-color: #3b5cee;
+}
+
+.control {
+  width: 60px;
+  height: 60px;
+  border-radius: 8px;
+  border: 1px solid white;
+  background: rgba(255, 255, 255, 0.1);
+  color: white;
+  opacity: 0.2;
+}
+
+.control.active {
+  opacity: 1;
+}
+
+.social {
+  width: 40px;
+  height: 40px;
+  padding: 12px;
+  border-radius: 8px;
+  background-color: 2f2f2f2f;
+}
+
+.social:hover {
+  background-color: #3B5CEE;
+}
+
+.max-content div {
+  width: max-content;
+}
+
+.bb-gray {
+  border-bottom: 1px solid #2f2f2f2f;
+}
+
+.cl-blue { color: #3B5CEE; }
+
+.bg-gray { background: #F3F5F7; }
+.bg-image { background-image: url("../images/westminster-cityscape.png");   background-size: cover;}
+.bg-dark-blue { background: #061D45; }
+.bg-blue { background: #3B5CEE; }
+.bg-light-blue { background: #DFF1FF; }
