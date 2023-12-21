@@ -98,8 +98,10 @@
 .mt-50 { margin-top: 50px !important; }
 .mt-80 { margin-top: 80px !important; }
 .mg-15 { margin: 15px!important;}
+
 .a-link {text-decoration: underline; color: white;}
 .a-link-gray {text-decoration: underline; color: #595a5d;}
+.a-link-black {text-decoration: underline; color: black;}
 
 .pin {
   width: 3px;
