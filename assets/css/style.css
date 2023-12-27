@@ -3,6 +3,13 @@ hr {
   border-color: rgba(0, 0, 0, 0.06);
 }
 
+@media (max-width: 992px) {
+  .youtube-video {
+    width: 90%;
+    height: 40%;
+}
+}
+
 .footer .footer-sep {
   width: 25px;
   height: 2px;
