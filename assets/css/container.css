@@ -17,6 +17,10 @@
   justify-content: space-between;
 }
 
+.space-around {
+  justify-content: space-around;
+}
+
 .carousel-item {
   width: 800px;
 }
@@ -41,6 +45,8 @@
 .hg-180 { height: 180px; }
 .hg-306 { height: 306px; }
 .hg-390 { height: 390px; }
+.hg-690 { height: 690px; }
+.hg-710 { height: 710px; }
 .hg-737 { height: 737px; }
 .hg-857 { height: 857px; }
 .hg-523 { height: 523px; }

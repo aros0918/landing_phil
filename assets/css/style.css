@@ -7,8 +7,20 @@ hr {
   .youtube-video {
     width: 90%;
     height: 40%;
+  }
+
+  .GMB-desktop {
+    display: none !important;
+  }
 }
+
+/* GMB mobile should hide when display size goees above 992 px */
+@media (min-width: 992px) {
+  .GMB-mobile {
+    display: none !important;
+  }
 }
+
 
 .footer .footer-sep {
   width: 25px;
@@ -32,6 +44,7 @@ hr {
   font-weight: 500;
   line-height: normal;
 }
+
 .dropdown-item:hover {
   background: #C1E3FE;
 }
@@ -93,10 +106,27 @@ li:last-child .dropdown-item {
   border-bottom: 1px solid #2f2f2f2f;
 }
 
-.cl-blue { color: #3B5CEE; }
+.cl-blue {
+  color: #3B5CEE;
+}
 
-.bg-gray { background: #F3F5F7; }
-.bg-image { background-image: url("../images/westminster-cityscape.png");   background-size: cover;}
-.bg-dark-blue { background: #061D45; }
-.bg-blue { background: #3B5CEE; }
-.bg-light-blue { background: #DFF1FF; }
+.bg-gray {
+  background: #F3F5F7;
+}
+
+.bg-image {
+  background-image: url("../images/westminster-cityscape.png");
+  background-size: cover;
+}
+
+.bg-dark-blue {
+  background: #061D45;
+}
+
+.bg-blue {
+  background: #3B5CEE;
+}
+
+.bg-light-blue {
+  background: #DFF1FF;
+}
