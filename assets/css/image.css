@@ -133,7 +133,7 @@
   background-image: url("./../images/img-page6-1.jfif");
 }
 #page6 .image-container.image-1 {
-  background-image: url("./../images/img-page6-2.jfif");
+  /* background-image: url("./../images/img-page6-2.jfif"); */
 }
 #page6 .image-container.image-2 {
   background-image: url("./../images/img-page6-3.png");
@@ -155,7 +155,7 @@
   background-image: url("./../images/img-page8-1.jfif");
 }
 #page8 .image-container.image-1 {
-  background-image: url("./../images/img-page8-2.jfif");
+  /* background-image: url("./../images/img-page8-2.jfif"); */
 }
 #page8 .image-container.image-2 {
   background-image: url("./../images/img-page8-3.png");
@@ -173,7 +173,7 @@
 
 /* PAGE14 */
 #page14 .image-container.image-1 {
-  background-image: url("./../images/img-page14-1.jfif");
+  /* background-image: url("./../images/img-page14-1.jfif"); */
 }
 #page14 .image-container.image-2 {
   background-image: url("./../images/img-page14-2.jfif");
