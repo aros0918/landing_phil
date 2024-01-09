@@ -1,5 +1,12 @@
 *, html {
-  font-family: Montserrat;
+  /* font-family: Montserrat; */
+  /* font-family: 'Times New Roman', Times, serif; */
+  font-family:Arial, Helvetica, sans-serif;
+  /* font-family:Georgia, 'Times New Roman', Times, serif !important; */
+}
+
+h1, h2{
+  font-family: Montserrat !important;
 }
 
 .me-auto {
@@ -29,6 +36,7 @@ p { margin: 0px; }
 .fs-32 { font-size: 32px !important; }
 .fs-40 { font-size: 40px !important; }
 .fs-44 { font-size: 44px !important; }
+.fs-48 { font-size: 48px !important; }
 .fs-50 { font-size: 50px !important; }
 .fs-73 { font-size: 73px !important; }
 
