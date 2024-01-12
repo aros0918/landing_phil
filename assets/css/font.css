@@ -17,6 +17,13 @@ a { text-decoration: none; }
 
 p { margin: 0px; }
 
+@media (max-width: 992px) {
+  .header-content > i , .header-content > span{
+    font-size: 50px;
+    line-height: normal;
+  }
+}
+
 .text-gray { color: var(--Gray, #595a5d); }
 .text-blue { color: var(--Dark-Blu3, #061d45); }
 .text-light-blue { color: #3B5CEE; }
