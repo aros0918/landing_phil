@@ -34,6 +34,12 @@
   height: 370px;
 }
 
+.image-responsive {
+  border-radius: 10px;
+  width: 100%;
+  height: 100%;
+}
+
 /*---------------   IMAGES   ---------------*/
 /* HOMEPAE */
 #homepage .image-container.image-1 {
