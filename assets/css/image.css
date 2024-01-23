@@ -2,6 +2,7 @@
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
+  object-fit: cover;
 }
 
 .map {
@@ -33,31 +34,37 @@
   height: 370px;
 }
 
+.image-responsive {
+  border-radius: 10px;
+  width: 100%;
+  height: 100%;
+}
+
 /*---------------   IMAGES   ---------------*/
 /* HOMEPAE */
 #homepage .image-container.image-1 {
-  background-image: url("./../images/img-home-1.png");
+  /* background-image: url("./../images/Westminster\ Chiropractor\ Dr.\ Phil  The Ring Dinger Chiropractic.png"); */
 }
 #homepage .image-container.image-2 {
-  background-image: url("./../images/img-home-2.png");
+  /* background-image: url("./../images/Dr. Phil's Chiropractic Care.png"); */
 }
 #homepage .image-container.image-3 {
-  background-image: url("./../images/img-home-3.jfif");
+  /* background-image: url("./../images/img-home-3.jfif"); */
 }
 #homepage .image-container.image-4 {
-  background-image: url("./../images/img-home-4.jfif");
+  /* background-image: url("./../images/img-home-4.jfif"); */
 }
 #homepage .image-container.image-5 {
-  background-image: url("./../images/img-home-5.jfif");
+  /* background-image: url("./../images/img-home-5.jfif"); */
 }
 #homepage .image-container.image-6 {
-  background-image: url("./../images/img-home-6.png");
+  /* background-image: url("./../images/img-home-6.png"); */
 }
 #homepage .image-container.image-7 {
-  background-image: url("./../images/img-home-7.jfif");
+  /* background-image: url("./../images/img-home-7.jfif"); */
 }
 #homepage .image-container.image-8 {
-  background-image: url("./../images/img-home-8.png");
+  /* background-image: url("./../images/img-home-8.png"); */
   /* marker */
 }
 #homepage .image-container.image-9 {
@@ -133,7 +140,7 @@
   background-image: url("./../images/img-page6-1.jfif");
 }
 #page6 .image-container.image-1 {
-  background-image: url("./../images/img-page6-2.jfif");
+  /* background-image: url("./../images/img-page6-2.jfif"); */
 }
 #page6 .image-container.image-2 {
   background-image: url("./../images/img-page6-3.png");
@@ -155,7 +162,7 @@
   background-image: url("./../images/img-page8-1.jfif");
 }
 #page8 .image-container.image-1 {
-  background-image: url("./../images/img-page8-2.jfif");
+  /* background-image: url("./../images/img-page8-2.jfif"); */
 }
 #page8 .image-container.image-2 {
   background-image: url("./../images/img-page8-3.png");
@@ -173,7 +180,7 @@
 
 /* PAGE14 */
 #page14 .image-container.image-1 {
-  background-image: url("./../images/img-page14-1.jfif");
+  /* background-image: url("./../images/img-page14-1.jfif"); */
 }
 #page14 .image-container.image-2 {
   background-image: url("./../images/img-page14-2.jfif");
@@ -199,40 +206,40 @@
 
 /* PAGE18 */
 #page18 .image-container.image-1 {
-  background-image: url("./../images/img-page18-1.png");
+  /* background-image: url("./../images/img-page18-1.png"); */
 }
 
 /* PAGE19 */
 #page19 .image-container.image-1 {
-  background-image: url("./../images/img-page19-1.png");
+  /* background-image: url("./../images/img-page19-1.png"); */
 }
 
 /* PAGE20 */
 #page20 .image-container.image-1 {
-  background-image: url("./../images/img-page20-1.png");
+  /* background-image: url("./../images/img-page20-1.png"); */
 }
 
 /* PAGE21 */
 #page21 .image-container.image-1 {
-  background-image: url("./../images/img-page21-1.png");
+  /* background-image: url("./../images/img-page21-1.png"); */
 }
 
 /* PAGE22 */
 #page22 .image-container.image-1 {
-  background-image: url("./../images/img-page22-1.png");
+  /* background-image: url("./../images/img-page22-1.png"); */
 }
 
 /* PAGE23 */
 #page23 .image-container.image-1 {
-  background-image: url("./../images/img-page23-1.png");
+  /* background-image: url("./../images/img-page23-1.png"); */
 }
 #page23 .image-container.image-2 {
-  background-image: url("./../images/img-page23-2.png");
+  /* background-image: url("./../images/img-page23-2.png"); */
 }
 
 /* PAGE24 */
 #page24 .image-container.image-1 {
-  background-image: url("./../images/img-page24-1.png");
+  /* background-image: url("./../images/img-page24-1.png"); */
 }
 
 /* PAGE25 */
