@@ -130,3 +130,10 @@ li:last-child .dropdown-item {
 .bg-light-blue {
   background: #DFF1FF;
 }
+
+.gap-2 { gap: 2px;}
+.gap-10 { margin-left: 10px; }
+.gap-15 { gap: 15px; }
+.gap-20 { gap: 20px; }
+.gap-30 { gap: 30px; }
+.gap-40 { gap: 40px; }

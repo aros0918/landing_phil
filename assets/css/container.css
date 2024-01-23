@@ -39,6 +39,7 @@
 .wd-mx-600 { max-width: 600px; }
 .wd-mx-400 { max-width: 400px; }
 
+.hg-100 { height: 100%; }
 .hg-103 { height: 103px; }
 .hg-160 { height: 160px; }
 .hg-169 { height: 169px; }
@@ -91,6 +92,7 @@
 .py-20 { padding-top: 20px; padding-bottom: 20px; }
 .py-40 { padding-top: 40px; padding-bottom: 40px; }
 .py-58 { padding-top: 58px; padding-bottom: 58px; }
+.py-65 { padding-top: 65px; padding-bottom: 65px; }
 .py-72 { padding-top: 72px; padding-bottom: 72px; }
 .py-80 { padding-top: 80px; padding-bottom: 80px; }
 .py-90 { padding-top: 90px; padding-bottom: 90px; }

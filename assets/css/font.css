@@ -5,9 +5,9 @@
   /* font-family:Georgia, 'Times New Roman', Times, serif !important; */
 }
 
-h1, h2, h3{
+/* h1, h2, h3{
   font-family: Montserrat !important;
-}
+} */
 
 .me-auto {
   word-break: break-word;
@@ -53,4 +53,5 @@ p { margin: 0px; }
 .lh-28 { line-height: 28px !important; }
 .lh-38 { line-height: 38px !important; }
 .lh-50 { line-height: 50px !important; }
+.lh-55 { line-height: 55px !important; }
 .lh-86 { line-height: 86px !important; }
